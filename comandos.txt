@@ -1,4 +1,6 @@
-Primeiros Passos
+Primeiros Passos Com os comandos GIT 
+
+
 Configurando informações sobre o autor dos commits:
 git config --global user.name "Gustavo"
 git config --global user.email "gustavo@gustavohenrique.net"
